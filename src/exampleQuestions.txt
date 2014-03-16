@@ -1,0 +1,29 @@
+100; Wie heißt meine Omma?; Gertrud
+100; Wie heißt meine Frau?; Agnes
+100; Wie heißt mein Hund?; Hasso
+100; Wie heiß Prost auf Estnisch?; Terviseks
+100; Wer spielt am besten Walzer?; Andre Rieu
+
+200; Wie heißt meine Omma?; Gertrud
+200; Wie heißt meine Frau?; Agnes
+200; Wie heißt mein Hund?; Hasso
+200; Wie heiß Prost auf Estnisch?; Terviseks
+200; Wer spielt am besten Walzer?; Andre Rieu
+
+300; Wie heißt meine Omma?; Gertrud
+300; Wie heißt meine Frau?; Agnes
+300; Wie heißt mein Hund?; Hasso
+300; Wie heiß Prost auf Estnisch?; Terviseks
+300; Wer spielt am besten Walzer?; Andre Rieu
+
+400; Wie heißt meine Omma?; Gertrud
+400; Wie heißt meine Frau?; Agnes
+400; Wie heißt mein Hund?; Hasso
+400; Wie heiß Prost auf Estnisch?; Terviseks
+400; Wer spielt am besten Walzer?; Andre Rieu
+
+500; Wie heißt meine Omma?; Gertrud
+500; Wie heißt meine Frau?; Agnes
+500; Wie heißt mein Hund?; Hasso
+500; Wie heiß Prost auf Estnisch?; Terviseks
+500; Wer spielt am besten Walzer?; Andre Rieu
